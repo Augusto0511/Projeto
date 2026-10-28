@@ -1,0 +1,9 @@
+{
+  "name": "projeto-html-github-actions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Validação e publicação de um site HTML com GitHub Actions.",
+  "scripts": {
+    "test": "node --test tests/site.test.js"
+  }
+}
